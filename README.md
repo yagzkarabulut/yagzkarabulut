@@ -1,16 +1,23 @@
-### Hi there 👋
+Tecrübe
+Frontend Geliştirici
+Web uygulamaları ve mobil uygulamalar geliştirdim.
+React, Redux, TypeScript ve diğer frontend teknolojilerini kullandım.
+Takım çalışmasına ve işbirliğine önem verdim.
 
-Enes Yağız KARABULUT
-**yagzkarabulut/yagzkarabulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eğitim
+Frontend Geliştirme 
+HTML, CSS, React ve JavaScript'i öğrendim.
+Takım çalışması ve işbirliği becerilerini geliştirdim.
 
-Here are some ideas to get you started:
+Beceriler
+Teknolojiler: HTML, CSS, React, JavaScript, TypeScript, Redux, React Native, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Kişisel Özellikler
+Öğrenme odaklı
+Kendini geliştirmeye istekli
+Takım çalışmasına değer veren
+İnsan ilişkileri güçlü
+Projeler
+
+
 
