@@ -18,8 +18,3 @@ Personal Traits
 [📈 Eager to improve oneself]
 [👥 Values teamwork]
 [🤝 Strong interpersonal skills]
-Projects
-
-[🌐 [Project 1] - Website]
-[📱 [Project 2] - Mobile App]
-[📊 [Project 3] - Project Management]
