@@ -4,7 +4,7 @@
  Used React, Redux,  and other frontend technologies
  Valued teamwork and collaboration
 
-🎓Education:
+🎓Education:  
  Frontend Development
  Learned HTML, CSS, React, and JavaScript
  Developed teamwork and collaboration skills
