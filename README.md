@@ -10,7 +10,7 @@
  Developed teamwork and collaboration skills
 
 💻Skills:  
- Technologies: HTML, CSS, React, JavaScript, TypeScript, Redux, React Native, Git, GitHub
+ Technologies: HTML, CSS, React, JavaScript, TypeScript, Redux, React Native
 
 📚Personal Traits:  
  Learning-oriented
