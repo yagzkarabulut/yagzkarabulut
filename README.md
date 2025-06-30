@@ -9,5 +9,5 @@
 
 I look forward to meeting you and working together.
 
-<h4>Connect with me:</h4> </br>
+<h4>Connect with me:</h4> 
 You can reach me via WhatsApp, GitHub, Discord, or Steam. Please ask for contact details.
