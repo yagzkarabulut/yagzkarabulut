@@ -1,4 +1,4 @@
-                              Hi There, I'm Yağız
+Hi There, I'm Yağız
 
 💻 I am a MERN Fullstack Developer.
 👨‍💻 I’m interested in many areas of programming, especially Web Development.
@@ -11,4 +11,5 @@
 I look forward to meeting you and working together.
 
 Connect with me:
+
 You can reach me via WhatsApp, GitHub, Discord, or Steam. Please ask for contact details.
