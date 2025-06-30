@@ -1,9 +1,14 @@
-👋 Hello, I'm @yagzkarabulut (Enes Yağız Karabulut). I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
+                              Hi There, I'm Yağız
 
-👀 I always aim for the most functional, applicable, and readable code.
+💻 I am a MERN Fullstack Developer.
+👨‍💻 I’m interested in many areas of programming, especially Web Development.
+📝 In my projects, I use HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Express, and MongoDB.
+🤝 I love teamwork and highly value well-organized teams that produce great products. I’m open to collaboration on any kind of project.
+💪 My mindset is: “No one has ever walked without stumbling, and no one has ever run without falling.” No matter how difficult a problem is, I never give up until I solve it.
 
-🌱 Blending my accumulated experiences with the developed team spirit, I am progressing with more confidence. As a self-directed Developer, passionate learner, and contributor, I express myself.
+[📂 My LinkedIn Profile](https://www.linkedin.com/in/yagizkarabulut/)
 
-💞️ Currently, I am focusing on HTML, CSS, React, React Native, and Java technologies.
+I look forward to meeting you and working together.
 
-📫 I have proven strength and initiative in group projects. Respected by both customers and colleagues for my deep communication skills, I believe in achieving high-impact results through ethical standards and teamwork.
+Connect with me:
+You can reach me via WhatsApp, GitHub, Discord, or Steam. Please ask for contact details.
