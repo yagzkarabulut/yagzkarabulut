@@ -1,4 +1,4 @@
-Hi There, I'm Yağız
+<h1>Hi There, I'm Yağız</h1>
 
 💻 I am a MERN Fullstack Developer.
 👨‍💻 I’m interested in many areas of programming, especially Web Development.
